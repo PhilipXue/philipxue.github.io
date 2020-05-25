@@ -7,8 +7,11 @@ description: > # your text below (remove <br> elements if you don't need line br
   I like 
   <br><br>
   <a href="https://www.linkedin.com/in/philipxue/">View my LinkedIn Profile</a> 
+  <br><br>
   <a href="https://www.kaggle.com/philipxue/">View my Kaggle Profile</a>
+  <br><br>
   <a href="/pdf/Philip_resume.pdf?raw=true">View my English CV</a>
+  <br><br>
   <a href="/pdf/Philip_resume_JP.pdf?raw=true">日本語履歴書はこちら</a>
   
 theme: jekyll-theme-minimal
