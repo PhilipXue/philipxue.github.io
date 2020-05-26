@@ -2,28 +2,21 @@
 
 ---
 
-### Category Name 1 
+### Personal project 
 
-[Project 1 Title](/projects/kaggle_tf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[TensorFlow Speech Recognition Challenge](https://www.kaggle.com/c/tensorflow-speech-recognition-challenge)
+<img src="images/kaggle_tf_thumb.png?raw=true"/>
+- Speech commands recognition competition held by Google Brain
+- Ranked 50th out of 1315 teams / 1593 competitors (Silver Metal / top 4%)
+- Build the system with CNN & RNN and coded with Tensorflow / Keras
+- Please check [my github repo](https://github.com/PhilipXue/TF-CRNN-kaggle-voice-competition) for code.
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
