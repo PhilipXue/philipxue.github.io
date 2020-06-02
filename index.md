@@ -16,7 +16,7 @@
 ### Project at work
 As an algorithm engineer, my daily responsibility includes searching for State of the art work for computer vision and machine learning tasks like object detection. Understand and reproduce them. And I also train models per client demand, gathering data, train the model, evaluate its performance, and optimize for deployment. At my current team, 1 algorithm engineer is assigned to a project and the engineer will do all the technique related workload for model developing.
 In recent times my main focus is on object detection related models. Especially one stage.
-Per NER request, I cannot unveil the detail of many client projects.
+Per NDA request, I cannot unveil the detail of many client projects.
 
 #### R&D task, Face verification model  
 - Developed a facial verification model from scratch.  
